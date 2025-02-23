@@ -1,0 +1,1 @@
+// i have to setup other section acording to (cuurent page)
