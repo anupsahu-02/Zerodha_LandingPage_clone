@@ -1,0 +1,35 @@
+.supportLinks li a {
+    color: white;
+    /* font-size: larger; */
+}
+
+.supportLinks {
+    margin-right: 0;
+}
+
+.supportLinks li {
+    margin-left: 10px;
+}
+
+.support-wrapper {
+    padding: 0 100px;
+    background-color: #387ed1;
+    padding-bottom: 100px;
+    margin-bottom: 50px;
+}
+
+.support-a a {
+    text-decoration: none;
+    /* color: white; */
+}
+
+.support-a a p {
+    text-decoration: none;
+    font-size: larger;
+    color: white;
+    padding: 5px 0;
+    display: inline-block;
+    margin-right: 30px;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    /* color: white; */
+}
